@@ -1,0 +1,8 @@
+.categorychecklist .children li {background:url(../images/child.png) no-repeat 0 0;}
+.categorychecklist li > .children {display:none;}
+.categorychecklist li > .show {display:block;} 
+.categorychecklist li {display:block; position:relative;} 
+.categorychecklist ul.children {margin-left:18px;}
+.categorychecklist .bullet {display:block; width:16px; height:16px; position:absolute; top:0; left:0; background-image:url(../images/bullets.png); background-repeat:none; cursor:pointer;}
+.categorychecklist .bullet.open {background-position:0 -16px;}
+.categorychecklist label {margin-left:20px;}

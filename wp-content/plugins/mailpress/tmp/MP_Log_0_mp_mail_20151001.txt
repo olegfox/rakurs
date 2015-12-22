@@ -1,0 +1,157 @@
+
+2015-10-01 11:28:32 000000 --  **** Start logging **** mp_mail *** log forced **** (5.4.3)
+2015-10-01 11:28:32 000000 -- MAILPRESS [NOTICE] - :::: external recipient ::::
+2015-10-01 11:28:32 000000 --  
+
+ ------------------- start of mail -------------------   
+ From : Александра Павлова <marketing@rakurs.su>  
+ To   : Александра Павлова <marketing@rakurs.su>  
+ Subject : Connection test : Ракурс - Template : posts 
+   ------------------- plaintext -------------------  
+ Ракурс
+
+
+
+							this mail is brought to you by MailPress 
+
+ ------------------- text/html -------------------  
+ <!DOCTYPE html>
+<html lang="ru-RU">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<title>Ракурс > Connection test : Ракурс - Template : posts > marketing@rakurs.su</title>
+		<!-- wp-content/plugins/mailpress/mp-content/themes/twentyten -->
+<style type='text/css' media='all'>
+/*
+Theme Name: MailPress template
+Description: theme used as template
+*/
+
+
+td.mp_twitter_link a.mp_twitter_date {
+text-decoration: none;
+color: #999;
+}
+td.mp_twitter_link a.mp_twitter_date:hover {
+text-decoration: underline !important;
+color: #777 !important;
+}
+
+td.mp_twitter_link ul li a b {
+text-decoration: none;
+color: #999;
+}
+td.mp_twitter_link ul li a:hover b {
+text-decoration: underline !important;
+color: #777 !important;
+}
+
+td.mp_twitter_link a {
+text-decoration: none;
+color: #666;
+}
+td.mp_twitter_link a:hover {
+text-decoration: underline !important;
+color: #444 !important;
+}
+
+a.mp_twitter_author_id:hover {
+text-decoration: underline !important;
+color: #000 !important;
+}</style>
+<style type='text/css' media='all'>
+/*
+Theme Name: MailPress Twenty Ten
+Theme URI: 
+Description: theme from TwentyTen wp theme.
+Version: 1.0
+Author: Andre Renaut
+Author URI: http://www.mailpress.org
+Template: _template
+*/
+a.more-link {color:#06C;}
+</style>
+	</head>	<body>
+		<div style="color:#666;font-size:12px;line-height:18px;background:none repeat scroll 0 0 #F1F1F1;vertical-align:baseline;font-family:Georgia,'Bitstream Charter',serif;">
+			<div style="margin:0 auto;border:none;padding:0 20px;width:700px;background:none repeat scroll 0 0 #FFF;">
+				<div style="margin:20px 0 0;border:none;padding:0;">
+					<div style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;">
+						<div style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;width:100%;width:100%;">
+							<table style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;width:100%;width:100%;" width='100%'>
+								<tr>
+									<td style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;">
+										<h1 style="margin:0 0 17px;border:none;padding:0;width:500px;font-size:30px;font-family:'Helvetica Neue',Arial,Helvetica,'Nimbus Sans L',sans-serif;line-height:36px;">
+											<span style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;">
+												<a style="color:#000;font-weight:bold;text-decoration:none;" href="http://www.rakurs.su/" title="Ракурс" rel="home">
+Ракурс												</a>
+											</span>
+										</h1>
+									</td>
+									<td style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;text-align:right;width:100%;width:100%;">
+										<div style="margin:14px 0 18px;border:none;padding:0;padding-right:30px;color:#666;font-size:12px;font-style:italic;width:95%;" >
+										</div>
+									</td>
+								</tr>
+							</table>
+							<img src="images/header-1.jpg"  width="700" height="147" alt="img" style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;border-top:4px solid #000000;border-bottom:18px solid #000000;display:block;" />
+						</div>
+					</div>
+				</div>
+				<div style="margin:0 auto;border:none;padding:10px 0 0;width:100%;overflow:hidden;">
+					<div style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;width:100%;width:100%;">
+						<div style="border:none;padding:0;color:#444;font-size:16px;line-height:24px;">
+<!-- end header --><!-- start footer -->
+						</div>
+					</div>
+				</div>
+				<div style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;width:100%;width:100%;">
+					<div style="margin:0 auto;margin:4px auto 0;border:none;border-top:4px solid #000000;padding:10px 0 5px;width:100%;font-size:12px;overflow:hidden;">
+						<table style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;width:100%;width:100%;">
+							<tr>
+								<td style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;">
+									<div style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;width:350px;font-weight:bold;font-family:'Helvetica Neue',Arial,Helvetica,'Nimbus Sans L',sans-serif;">
+<a style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;color:#000000;font-size:12px;text-decoration:none;" href="http://www.rakurs.su/" title="Ракурс" rel="home">Ракурс</a>
+									</div>
+								</td>
+								<td style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;">
+									<table style='width:auto;float:right'>
+										<tr>
+											<td style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;width:auto;">
+												<span style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;color:#666;font-size:12px;font-style:italic;font-family:'Helvetica Neue',Arial,Helvetica,'Nimbus Sans L',sans-serif;">
+Proudly mailed by 
+												</span>
+											</td>
+											<td style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;width:auto;">
+												<img src='images/mailpress.png' style="margin:0 4px;border:none;padding:0;" alt='img' />
+											</td>
+											<td style="border:none;border-spacing: 0px;border-collapse: collapse;margin:0;padding:0;width:auto;">
+												<a style="color:#888;font-size:12px;text-decoration:none;" href="http://mailpress.org/" title="The WordPress Mailing plugin">
+MailPress
+												</a>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html> 
+
+ ------------------ end of mail ------------------  
+
+
+2015-10-01 11:28:32 000000 -- MAILPRESS [NOTICE] - Image found : wp-content/plugins/mailpress/mp-content/themes/twentyten/images/header-1.jpg
+2015-10-01 11:28:32 000000 -- MAILPRESS [NOTICE] - Image found : wp-content/plugins/mailpress/mp-content/themes/twentyten/images/mailpress.png
+2015-10-01 11:28:32 000000 -- MAILPRESS [NOTICE] - Disconnecting from rakurs1z_0_raku (MP_Mail)
+2015-10-01 11:28:32 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2015-10-01 11:28:32 000000 -- MAILPRESS [NOTICE] - Connecting to rakurs1z_0_raku (MP_Mail send)
+2015-10-01 11:28:32 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail send)
+2015-10-01 11:28:32 000000 -- 
+2015-10-01 11:28:32 000000 -- MAILPRESS [ERROR] - *** Mail could not be sent ***
+2015-10-01 11:28:32 000000 -- 
+2015-10-01 11:28:32 000000 --  **** End   logging **** mp_mail *** level : 0 **** status : FALSE 

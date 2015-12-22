@@ -1,0 +1,17 @@
+** WP BEST TREE CHANGELOG **
+
+2013.06.24 - Version 1.3
+ * Improved code - Minified Javascript.
+
+2013.02.27 - Version 1.2
+ * Preserve Hierarchy Bug - Fixed.
+
+2012.12.26 - Version 1.1
+ * Plugin Coding - Improved.
+ * Compatibility with version 3.5 - Checked.
+ * Add Category on postbox bug - Fixed.
+ * /js/jquery.livequery.js - Added.
+ * /js/tree.js - Updated.
+
+2012.05.22 - Version 1.0
+ * First Logged release

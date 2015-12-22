@@ -1,0 +1,200 @@
+
+li {
+    list-style-position: inside;
+    margin-left: 30px;
+}
+
+/*   
+Theme Name: White Russian
+Theme URI: 8stein.ru
+Description: 
+Author: 8stein
+Author URI: 8stein.ru
+Version: 1.0 beta
+*/
+.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.alignleft {
+    float: left;
+    margin: 0.5em 1em 0.5em 0;
+}
+
+.alignright {
+    float: right;
+    margin: 0.5em 0 0.5em 1em;
+}
+ul.dimt-grid-images {
+	margin:0 !important;
+}
+.menu-item {
+    margin-left: 0px;
+}
+.dimt-grid {
+	margin-top:-6px;
+}
+.dimt-grid .dimt-grid-images > li {
+	margin:0 !important;
+	border:0 !important;
+	padding:0 !important;
+}
+.dimt-grid .dimt-grid-images li:hover img {
+	z-index:1000;
+}
+
+.ppt, .pp_top, .pp_left, .pp_right, .pp_details, .pp_bottom {
+	background:none !important;
+}
+.ppt, .pp_top, .pp_details, .pp_bottom {
+	display:none;
+}
+div.pp_default .pp_content, div.light_rounded .pp_content {
+	background-color:rgba(255, 255, 255, 0) !important;
+}
+.wr_pagenavi {
+	text-align:center;
+	clear: both;
+}
+.collection {
+background-color: rgba(255, 255, 255, 0);
+margin: 0;
+border: 0px solid #e0e0e0;
+border-radius: 2px;
+}
+article table {
+max-width: 100%;
+width:auto;
+}
+.single .b-content ul, .page .b-content ul, .single .b-content ol, .page .b-content ol {
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.single .b-content ul li, .page .b-content ul li {
+	list-style-type: circle;
+    list-style: inside;
+	margin-left: 30px;
+}
+.page-template-filter .b-content ul li {
+    min-height: 170px;
+}
+.single .b-content ul li ul li, .page .b-content ul li ul li {
+	list-style-type: disc;
+	margin-left: 50px;	
+}
+.single .b-content ol li, .page .b-content ol li {
+	list-style-type: decimal;
+	margin-left: 30px;
+}
+.single .b-content ol li ol li, .page .b-content ol li ol li {
+	list-style-type: decimal;
+	margin-left: 50px;
+}
+.single .b-content ul li ol li, .page .b-content ul li ol li {
+	list-style-type: decimal;
+	margin-left: 50px;
+}
+.single .b-content ol li ul li, .page .b-content ol li ul li {
+	list-style-type: disc;
+	margin-left: 50px;
+}
+.b-manuf__item {
+margin-left: 0 !important;
+list-style-type: none !important;
+margin-right: 17px;
+}
+.b-pro-cat__item {
+list-style-type: none !important;
+margin-left: 0 !important;
+}
+.b-index-cat__item {
+list-style-type: none !important;
+margin-left: 0 !important;
+}
+.b-pager li {
+margin-left: 0 !important;
+list-style-type: none !important;
+}
+.mtli_attachment {
+background-position: center left !important;
+padding-left: 21.2px !important;
+height: 19px !important;
+}
+.b-content__go-back {
+	cursor: pointer;
+}
+th {
+
+white-space: normal !important;
+}
+.b-content__text table img {
+max-width: 100%;
+/*width: auto !important;*/
+/*height: auto !important;*/
+}
+.tovar table img {
+max-width: 100%;
+/*width: auto !important;*/
+/*height: auto !important;*/
+/*max-width: 120px;*/
+/*max-height: 150px;*/
+/*margin-left:auto;*/
+/*margin-right:auto;*/
+}
+.wpb_tabs {
+	
+}
+.wpb_tabs ul.wpb_tabs_nav {
+	margin: 0;
+background: #ffffff;
+border: none;
+}
+.wpb_tabs ul.wpb_tabs_nav li.ui-state-default{
+	margin-left: 0;
+}
+.wpb_content_element.wpb_tabs .wpb_tour_tabs_wrapper .wpb_tab {
+background-color: #f7f7f7;
+border: 1px solid #aaa;
+}
+
+.home .b-index-section {
+margin-bottom: 40px;
+border-bottom: 4px double #999999;
+padding-bottom: 15px;
+}
+.b-index-section.b-max-width {
+border-bottom: 0px solid #ffffff;
+padding-bottom: 0px;
+}
+.b-cat__group-title {
+height: 34px;
+vertical-align: middle;
+display: table-cell;
+width: 194px;
+}
+.wpb_tabs .wpb_wrapper a, .wpb_tabs .wpb_wrapper a:visited {
+color: #0081cc;	
+}
+ul.selectboxit-options {
+    margin-bottom: 0px !important;
+    margin-top: 0px !important;
+}
+.wr_menu_wide a{
+    min-width:82px;
+}
+.single .b-max-width .b-content {
+    width: 940px;
+}
+.mtli_attachment {
+    display:initial !important;
+}
+
+.vc_images_carousel .vc_carousel-indicators li{
+    margin: 1px!important;
+}
+
+.flex-control-nav li{
+    margin: 0 6px!important;
+}
