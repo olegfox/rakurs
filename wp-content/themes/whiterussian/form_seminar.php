@@ -1,4 +1,3 @@
-<!-- t: form_seminar -->
 <?php
 require_once( $_SERVER['DOCUMENT_ROOT'] . '/wp-load.php' );
 ?>
@@ -38,9 +37,25 @@ $from = "marketing@rakurs.su";
 $subject = "Форма обратной связи с сайта Ракурс";
 $headers = "From: $from"; 
 $message_contact = "$url \n Имя пользователя: $username \n Email: $email \n Номер телефона: $phone \n Должность: $job \n Компания: $company \n Специализация: $spec \n Сайт: $website \n Сообщение: $message_inner";
-//wp_mail($to, $subject, $message_contact,  $headers, "-f " . $from);
-foreach($arr as $arr_item){
-wp_mail($arr_item, $subject, $message_contact,  $headers, "-f " . $from);
+
+
+$valid = false;
+
+if ( !empty($_POST['email']) ) {
+  if ( filter_var($_POST['email'], FILTER_VALIDATE_EMAIL) ) {
+    $valid = true;
+  }
+}
+if ( !empty($_POST['phone']) ) {
+  if ( preg_match("/^((8|\+7)[\- ]?)?(\(?\d{3,4}\)?[\- ]?)?[\d\- ]{5,10}$/", $_POST['phone']) ) {
+    $valid = true;
+  }
+}
+
+if ( $valid ) {
+  foreach($arr as $arr_item){
+  wp_mail($arr_item, $subject, $message_contact,  $headers, "-f " . $from);
+  }
 }
 $url = $_SERVER['HTTP_REFERER'];
 ?>

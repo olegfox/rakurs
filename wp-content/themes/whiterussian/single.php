@@ -39,9 +39,9 @@
  <?php } ?>
  <div class="b-content<?php if( in_array( 'off', get_field('banner') ) ) { ?> _no-sidebar<?php } else { ?><?php } ?>">
 <?php if (in_category('news')) {  get_sidebar('news_side'); } else { get_sidebar('page_side'); }?>
-<article>
-    <br/>
+<?php if (in_array($post_cat[0]->slug, array("news", "aktsii", "seminars"))) { ?>
     <div class="news_date b-list__item-date"><?php the_time('D, M, Y') ?></div>
+    <?php } ?>
 	<?php the_title('<h1>', '</h1>'); ?>
 			<div class="b-content__text tovar">
 	<?php the_content(); ?>

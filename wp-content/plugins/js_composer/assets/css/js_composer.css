@@ -3299,6 +3299,7 @@ ul.wpb_thumbnails-fluid > li,
 .wpb_accordion .wpb_content_element,
 .wpb_toggle_content {
   margin-bottom: 21.73913043px;
+  display: table;
 }
 .wpb_column > .wpb_wrapper > *:last-child {
   margin-bottom: 0;

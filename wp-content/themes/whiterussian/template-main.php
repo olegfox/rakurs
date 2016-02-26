@@ -152,7 +152,7 @@
       <div class="b-max-width">
         <h2 class="h2">Компания &laquo;Ракурc&raquo; &mdash; это:</h2>
           <?php
-          echo do_shortcode("[URIS id=10523]");
+          echo do_shortcode("[URIS id=11268]");
           ?>
       </div>
     </div>
